@@ -1,8 +1,8 @@
 # Site
 name: 'sweet-sugar'
 description: 'Los dulces más dulces.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.ico'
 baseurl: '/sweetsugar.web'
 avatar: 'assets/images/sal.jpg'
 disqus: 'demowebsite'

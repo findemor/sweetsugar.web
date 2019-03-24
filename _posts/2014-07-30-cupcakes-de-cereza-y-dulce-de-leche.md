@@ -1,22 +1,10 @@
 ---
-id: 45
-title: Cupcakes de cereza y dulce de leche
-date: 2014-07-30T19:45:27+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=45
-permalink: /cupcakes-de-cereza-y-dulce-de-leche/
+title:  "Cupcakes de cereza y dulce de leche"
+metadate: "hide"
 categories:
   - Cupcakes
-tags:
-  - cupcake cereza
-  - cupcake dulce de leche
-  - cupcake merengue
-  - Cupcakes
+image: "http://sweet-sugar.es/wp-content/uploads/2014/07/cupcake-sweet-sugar.jpg"
 ---
-[<img class="alignnone size-full wp-image-46" alt="Cupcake de cereza y dulce de leche" src="http://sweet-sugar.es/wp-content/uploads/2014/07/cupcake-sweet-sugar.jpg" width="535" height="700" srcset="http://sweet-sugar.es/wp-content/uploads/2014/07/cupcake-sweet-sugar.jpg 535w, http://sweet-sugar.es/wp-content/uploads/2014/07/cupcake-sweet-sugar-229x300.jpg 229w" sizes="(max-width: 535px) 100vw, 535px" />](http://sweet-sugar.es/wp-content/uploads/2014/07/cupcake-sweet-sugar.jpg)
-
-&nbsp;
 
 Aqui os dejo un cupcake riquísimo, que está inspirado en el logo de Sweet Sugar.
 

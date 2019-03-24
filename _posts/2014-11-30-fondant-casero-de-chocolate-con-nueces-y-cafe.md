@@ -1,23 +1,13 @@
 ---
-id: 117
-title: Fondant casero de chocolate con nueces y café
-date: 2014-11-30T16:30:11+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=117
-permalink: /fondant-casero-de-chocolate-con-nueces-y-cafe/
+title:  "Fondant casero de chocolate con nueces y café"
+metadate: "hide"
 categories:
   - Chocolate
   - Cumpleaños
   - Recetas
   - Tartas
-tags:
-  - chocolate
-  - fondant
-  - nueces
-  - tarta
+image: "http://sweet-sugar.es/wp-content/uploads/2014/11/foto-fondant-chocolate.jpg"
 ---
-[<img class="alignnone wp-image-118 size-full" src="http://sweet-sugar.es/wp-content/uploads/2014/11/foto-fondant-chocolate.jpg" alt="Fondant casero de chocolate con nueces y café" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2014/11/foto-fondant-chocolate.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2014/11/foto-fondant-chocolate-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](http://sweet-sugar.es/wp-content/uploads/2014/11/foto-fondant-chocolate.jpg)
 
 Aqui os traigo una receta **muy muy fácil **para hacer de un día para otro (no os asusteis, es que tiene que terminarse en el frigorífico :P).
 

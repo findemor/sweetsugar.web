@@ -1,28 +1,14 @@
 ---
-id: 84
-title: 'Crema Inglesa: la receta definitiva'
-date: 2014-10-07T17:30:22+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=84
-permalink: /crema-inglesa-la-receta-definitiva/
+title:  "Crema Inglesa: la receta definitiva"
+metadate: "hide"
 categories:
   - Postres tradicionales
   - Recetas
-tags:
-  - crema inglesa
-  - postre casero
-  - postre tradicional
-  - receta crema inglesa
-  - receta facil
-  - receta merengue
-  - receta rapida
+image: "http://sweet-sugar.es/wp-content/uploads/2014/10/1412625_590494377652386_967392701_o.jpg"
 ---
-[<img class="alignnone size-full wp-image-85" src="http://sweet-sugar.es/wp-content/uploads/2014/10/1412625_590494377652386_967392701_o.jpg" alt="Crema Inglesa" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2014/10/1412625_590494377652386_967392701_o.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2014/10/1412625_590494377652386_967392701_o-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](http://sweet-sugar.es/wp-content/uploads/2014/10/1412625_590494377652386_967392701_o.jpg)
 
 Esta receta de **Crema Inglesa** está buenísima y es ideal para el tiempo de Otoño que tenemos ahora. Yo la llevo haciendo varios años ¡y mi familia se vuelve loca con ella!
 
-&nbsp;
 
 **INGREDIENTES PARA 4 PERSONAS APROXIMADAMENTE:**
 

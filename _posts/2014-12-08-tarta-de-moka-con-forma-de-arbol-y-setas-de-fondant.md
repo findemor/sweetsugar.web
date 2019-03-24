@@ -1,25 +1,14 @@
 ---
-id: 123
-title: Tarta de moka con forma de árbol y setas de fondant
-date: 2014-12-08T11:49:39+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=123
-permalink: /tarta-de-moka-con-forma-de-arbol-y-setas-de-fondant/
+title:  "Tarta de moka con forma de árbol y setas de fondant"
+metadate: "hide"
 categories:
   - Buttercream
   - Cumpleaños
   - Fondant
   - Tartas
   - Tartas torneadas
-tags:
-  - buttercream
-  - moka
-  - setas
-  - setas fondant
-  - tarta arbol
+image: "http://sweet-sugar.es/wp-content/uploads/2014/12/adaptada.jpg"
 ---
-[<img class="alignnone size-full wp-image-124" src="http://sweet-sugar.es/wp-content/uploads/2014/12/adaptada.jpg" alt="Tarta árbol y setas" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2014/12/adaptada.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2014/12/adaptada-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](http://sweet-sugar.es/wp-content/uploads/2014/12/adaptada.jpg)
 
 Últimamente mi padre esta trayendo un montón de setas a casa, y como ayer fue su cumpleaños y le ENCANTAN, he preparado esta tarta en su honor 🙂
 

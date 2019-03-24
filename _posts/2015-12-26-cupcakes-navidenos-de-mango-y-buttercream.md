@@ -1,24 +1,13 @@
 ---
-id: 146
-title: Cupcakes navideños de mango y buttercream
-date: 2015-12-26T10:58:16+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=146
-permalink: /cupcakes-navidenos-de-mango-y-buttercream/
+title:  "Cupcakes navideños de mango y buttercream"
+metadate: "hide"
 categories:
   - Buttercream
   - Cupcakes
   - Navidad
   - Pasteles
-tags:
-  - buttercream
-  - Cupcakes
-  - cupcakes navideños
-  - mango
-  - navidad
+image: "http://sweet-sugar.es/wp-content/uploads/2015/12/cupcakes-navidad-reno-sweet-sugar.jpg"
 ---
-[<img class="alignnone size-full wp-image-147" src="http://sweet-sugar.es/wp-content/uploads/2015/12/cupcakes-navidad-reno-sweet-sugar.jpg" alt="Cupcakes de navidad con reno y arbol" width="535" height="700" srcset="http://sweet-sugar.es/wp-content/uploads/2015/12/cupcakes-navidad-reno-sweet-sugar.jpg 535w, http://sweet-sugar.es/wp-content/uploads/2015/12/cupcakes-navidad-reno-sweet-sugar-229x300.jpg 229w" sizes="(max-width: 535px) 100vw, 535px" />](http://sweet-sugar.es/wp-content/uploads/2015/12/cupcakes-navidad-reno-sweet-sugar.jpg)
 
 Para estos días de Navidad he preparado unos cupcakes muy tiernitos con sabor a mango que están&#8230; ¡riquísimos!
 

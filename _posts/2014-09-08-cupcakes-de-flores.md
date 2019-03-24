@@ -1,28 +1,12 @@
 ---
-id: 60
-title: Cupcakes de flores
-date: 2014-09-08T15:45:58+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=60
-permalink: /cupcakes-de-flores/
+title:  "Cupcakes de flores"
+metadate: "hide"
 categories:
   - Buttercream
   - Cupcakes
   - Fondant
-tags:
-  - buttercream de frambuesa
-  - crema de mantequilla
-  - crema de mantequilla de frambuesa
-  - cupcakes buttercream
-  - cupcakes con fondant
-  - cupcakes flores
-  - cupcakes rosas
-  - decorar buttercream
+image: "http://sweet-sugar.es/wp-content/uploads/2014/09/IMG_30932.jpg"
 ---
-[<img class="alignnone size-full wp-image-62" src="http://sweet-sugar.es/wp-content/uploads/2014/09/IMG_30932.jpg" alt="Cupcakes de flores" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2014/09/IMG_30932.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2014/09/IMG_30932-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](http://sweet-sugar.es/wp-content/uploads/2014/09/IMG_30932.jpg)
-
-&nbsp;
 
 Estos cupcakes son perfectos para una celebración o incluso para una boda porque tienen una estética muy delicada y un sabor intenso a buttercream de frambuesa.
 

@@ -1,29 +1,14 @@
 ---
-id: 138
-title: Profiteroles de nata y crema pastelera con salsa de chocolate
-date: 2015-12-20T12:56:17+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=138
-permalink: /profiteroles-de-nata-y-crema-pastelera-con-salsa-de-chocolate/
+title:  "Profiteroles de nata y crema pastelera con salsa de chocolate"
+metadate: "hide"
 categories:
   - Chocolate
   - Pasteles
   - Postres tradicionales
   - Postres tradicionales
   - Recetas
-tags:
-  - crema pastelera
-  - nata
-  - pastel
-  - postre tradicional
-  - profiteroles
-  - receta profiteroles
-  - recetas thermomix
-  - salsa de chocolate
-  - thermomix
+image: "http://sweet-sugar.es/wp-content/uploads/2015/12/profiteroles-sweet-sugar-blog.jpg"
 ---
-[<img class="alignnone size-full wp-image-139" src="http://sweet-sugar.es/wp-content/uploads/2015/12/profiteroles-sweet-sugar-blog.jpg" alt="Profiteroles de nata y crema pastelera" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2015/12/profiteroles-sweet-sugar-blog.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2015/12/profiteroles-sweet-sugar-blog-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](http://sweet-sugar.es/wp-content/uploads/2015/12/profiteroles-sweet-sugar-blog.jpg)
 
 Hoy os comparto una receta muy sencilla y que nunca falla. Además, vienen perfectos para terminar con buen sabor de boca las próximas celebraciones navideñas.
 

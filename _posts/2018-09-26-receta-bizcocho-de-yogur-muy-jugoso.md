@@ -1,11 +1,6 @@
 ---
-id: 170
-title: Bizcocho de yogur muy jugoso
-date: 2018-09-26T19:21:11+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=170
-permalink: /receta-bizcocho-de-yogur-muy-jugoso/
+title:  "Bizcocho de yogur muy jugoso"
+metadate: "hide"
 categories:
   - Bizcocho
   - Desayuno
@@ -13,28 +8,10 @@ categories:
   - Postres tradicionales
   - Postres tradicionales
   - Recetas
-tags:
-  - bizcocho
-  - bizcocho de yogur
-  - bizcocho jugoso
-  - desayuno
-  - merienda
-  - paso a paso
-  - receta
-  - receta facil
-  - receta rapida
-  - video
-  - video receta
-  - yogur
-  - yogurt
----
-<div id="attachment_175" style="width: 710px" class="wp-caption alignnone">
-  <a href="http://sweet-sugar.es/wp-content/uploads/2018/09/receta-bizcocho-yogur-jugoso-sweetsugar.jpg"><img class="size-full wp-image-175" src="http://sweet-sugar.es/wp-content/uploads/2018/09/receta-bizcocho-yogur-jugoso-sweetsugar.jpg" alt="Bizcocho de yogur muy jugoso" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2018/09/receta-bizcocho-yogur-jugoso-sweetsugar.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2018/09/receta-bizcocho-yogur-jugoso-sweetsugar-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a>
-  
-  <p class="wp-caption-text">
-    Receta de bizcocho de yogur muy jugoso
-  </p>
-</div>
+image: "http://sweet-sugar.es/wp-content/uploads/2018/09/receta-bizcocho-yogur-jugoso-sweetsugar.jpg"
+---  
+
+# Receta de bizcocho de yogur muy jugoso
 
 Os traigo una receta muy sencilla que todo el mundo debería saber: un **bizcocho de yogur** muy jugoso.
 

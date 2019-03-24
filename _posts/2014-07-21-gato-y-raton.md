@@ -1,24 +1,12 @@
 ---
-id: 26
-title: Gato y ratón
-date: 2014-07-21T19:35:30+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=26
-permalink: /gato-y-raton/
+title:  "Gato y ratón"
+metadate: "hide"
 categories:
   - Fondant
   - Tartas
   - Tartas torneadas
-tags:
-  - fondant
-  - gato y raton
-  - tarta con forma de gato
-  - tarta fondant
-  - tarta gato
-  - tarta torneada
+image: "http://sweet-sugar.es/wp-content/uploads/2014/07/tarta-gato.jpg"
 ---
-[<img class="alignnone size-full wp-image-30" alt="Tarta de gato y ratón" src="http://sweet-sugar.es/wp-content/uploads/2014/07/tarta-gato.jpg" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2014/07/tarta-gato.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2014/07/tarta-gato-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](http://sweet-sugar.es/wp-content/uploads/2014/07/tarta-gato.jpg)
 
 El día que me propusieron hacer una tarta con forma de gato no se imaginaban la de vueltas de cabeza que me iban a dar jajaja
 

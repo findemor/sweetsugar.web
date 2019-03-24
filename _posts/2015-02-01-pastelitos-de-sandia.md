@@ -1,24 +1,13 @@
 ---
-id: 127
-title: Pastelitos de sandía
-date: 2015-02-01T11:55:22+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=127
-permalink: /pastelitos-de-sandia/
+title:  "Pastelitos de sandía"
+metadate: "hide"
 categories:
   - Buttercream
   - Cumpleaños
   - Pasteles
   - Recetas
-tags:
-  - bizcocho
-  - buttercream
-  - crema de mantequilla
-  - pasteles
-  - sandía
+image: "http://sweet-sugar.es/wp-content/uploads/2015/02/pastelitos-sandia.jpg"
 ---
-[<img class="alignnone size-full wp-image-128" src="http://sweet-sugar.es/wp-content/uploads/2015/02/pastelitos-sandia.jpg" alt="Pastelitos de sandia" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2015/02/pastelitos-sandia.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2015/02/pastelitos-sandia-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](http://sweet-sugar.es/wp-content/uploads/2015/02/pastelitos-sandia.jpg)
 
 Esta receta es muy sencilla y lleva muy pocos ingredientes.
 

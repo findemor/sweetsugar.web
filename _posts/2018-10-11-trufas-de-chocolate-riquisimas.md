@@ -1,34 +1,15 @@
 ---
-id: 190
-title: Trufas de chocolate riquísimas
-date: 2018-10-11T16:56:48+00:00
-author: sweet-sugar
-layout: post
-guid: http://sweet-sugar.es/?p=190
-permalink: /trufas-de-chocolate-riquisimas/
+title:  "Bizcocho de yogur muy jugoso"
+metadate: "hide"
 categories:
   - Chocolate
   - Postres tradicionales
   - Postres tradicionales
   - Recetas
-  - Uncategorized
-tags:
-  - cacao
-  - chocolate
-  - coco
-  - receta
-  - receta facil
-  - receta trufas
-  - trufas
-  - trufas chocolate
----
-<div id="attachment_189" style="width: 710px" class="wp-caption alignnone">
-  <a href="http://sweet-sugar.es/wp-content/uploads/2018/10/trufas-plantilla-sweetsugar.jpg"><img class="wp-image-189 size-full" src="http://sweet-sugar.es/wp-content/uploads/2018/10/trufas-plantilla-sweetsugar.jpg" alt="Receta de trufas caseras de chocolate" width="700" height="535" srcset="http://sweet-sugar.es/wp-content/uploads/2018/10/trufas-plantilla-sweetsugar.jpg 700w, http://sweet-sugar.es/wp-content/uploads/2018/10/trufas-plantilla-sweetsugar-300x229.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" /></a>
+image: "http://sweet-sugar.es/wp-content/uploads/2018/10/trufas-plantilla-sweetsugar.jpg"
+---  
   
-  <p class="wp-caption-text">
-    Receta de trufas caseras de chocolate
-  </p>
-</div>
+# Receta de trufas caseras de chocolate
 
 El otro día tenía muchas ganas de comerme unas trufas de chocolate, de esas que se derriten en la boca&#8230;¡qué ricas!, y como no podía ser de otra manera, me puse manos a la obra.
 
