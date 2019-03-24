@@ -515,3 +515,10 @@ a.next {
 .navbar img {
   width: 35px;
 }
+/*body*/
+nav.navbar.fixed-top {
+  background-color: #fbdfe0;
+}
+/*nav.navbar.navbar-expand-lg.navbar-light {
+  background-color: transparent !important;
+}*/
